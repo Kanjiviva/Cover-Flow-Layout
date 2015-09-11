@@ -1,8 +1,8 @@
 //
 //  main.m
-//  InstaKilo
+//  CoverFlowLayout
 //
-//  Created by Steve on 2015-09-09.
+//  Created by Steve on 2015-09-10.
 //  Copyright (c) 2015 Steve. All rights reserved.
 //
 
